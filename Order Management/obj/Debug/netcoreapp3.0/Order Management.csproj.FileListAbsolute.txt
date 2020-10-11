@@ -1,0 +1,264 @@
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.exe
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.csprojAssemblyReference.cache
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.AssemblyInfoInputs.cache
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.AssemblyInfo.cs
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.RazorTargetAssemblyInfo.cache
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\staticwebassets\Order Management.StaticWebAssets.Manifest.cache
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\staticwebassets\Order Management.StaticWebAssets.xml
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.csproj.CopyComplete
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.deps.json
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.runtimeconfig.json
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.runtimeconfig.dev.json
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.pdb
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.pdb
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.genruntimeconfig.cache
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.csproj.CoreCompileInputs.cache
+C:\Users\Santhushi Hemachandr\source\repos\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.MvcApplicationPartsAssemblyInfo.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.exe
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.deps.json
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.runtimeconfig.json
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.runtimeconfig.dev.json
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Order Management.pdb
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.csprojAssemblyReference.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.AssemblyInfoInputs.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.AssemblyInfo.cs
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.csproj.CoreCompileInputs.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.MvcApplicationPartsAssemblyInfo.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.RazorTargetAssemblyInfo.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.csproj.CopyComplete
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\staticwebassets\Order Management.StaticWebAssets.Manifest.cache
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\staticwebassets\Order Management.StaticWebAssets.xml
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.dll
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.pdb
+E:\Order Management-20200919T122416Z-001\Order Management\Order Management\obj\Debug\netcoreapp3.0\Order Management.genruntimeconfig.cache

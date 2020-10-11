@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vibus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vibus\\.nuget\\packages"
+    ]
+  }
+}
