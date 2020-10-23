@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Order_Management.Models;
 
 namespace Order_Management.Migrations
 {
     [DbContext(typeof(DeliveryTokenDB))]
-    partial class DeliveryTokenDBModelSnapshot : ModelSnapshot
+    [Migration("20201018171548_AlterCustomer")]
+    partial class AlterCustomer
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,33 +32,18 @@ namespace Order_Management.Migrations
                         .HasColumnType("nvarchar(50)")
                         .HasMaxLength(50);
 
-                    b.Property<int>("Age")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Allergies")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
-
-                    b.Property<string>("Email")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("FirstName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("LastName")
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("LastUpdatedTime")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Telephone")
                         .HasColumnType("nvarchar(12)")
                         .HasMaxLength(12);
-
-                    b.Property<string>("password")
-                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

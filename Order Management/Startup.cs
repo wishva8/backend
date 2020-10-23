@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Order_Management.Models;
+using Order_Management.Services;
+using Order_Management.Services.Contracts;
+using Order_Management.Services.Support;
 
 namespace Order_Management
 {
@@ -30,6 +33,12 @@ namespace Order_Management
 
             services.AddDbContext<DeliveryTokenDB>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
+
+            services.AddScoped<ICustomerService, CustomerService>();
+            services.AddScoped<IEmailService, EmailService>();
+            services.AddScoped<ITokenDetailService, TokenDetailService>();
+            services.AddScoped<IOrderService, OrderService>();
+
 
             services.AddCors();
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\Order Management\\Order Management\\Delivery Token Managment.csproj": {}
+    "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\New folder\\Order Management\\Order Management\\Delivery Token Managment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\Order Management\\Order Management\\Delivery Token Managment.csproj": {
+    "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\New folder\\Order Management\\Order Management\\Delivery Token Managment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\Order Management\\Order Management\\Delivery Token Managment.csproj",
+        "projectUniqueName": "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\New folder\\Order Management\\Order Management\\Delivery Token Managment.csproj",
         "projectName": "Delivery Token Managment",
-        "projectPath": "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\Order Management\\Order Management\\Delivery Token Managment.csproj",
+        "projectPath": "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\New folder\\Order Management\\Order Management\\Delivery Token Managment.csproj",
         "packagesPath": "C:\\Users\\vibus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\Order Management\\Order Management\\obj\\",
+        "outputPath": "C:\\Users\\vibus\\OneDrive\\Desktop\\ITPproject\\New folder\\Order Management\\Order Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vibus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"

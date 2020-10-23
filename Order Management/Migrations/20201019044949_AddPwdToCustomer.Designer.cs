@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Order_Management.Models;
 
 namespace Order_Management.Migrations
 {
     [DbContext(typeof(DeliveryTokenDB))]
-    partial class DeliveryTokenDBModelSnapshot : ModelSnapshot
+    [Migration("20201019044949_AddPwdToCustomer")]
+    partial class AddPwdToCustomer
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

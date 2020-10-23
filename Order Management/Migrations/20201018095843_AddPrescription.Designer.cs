@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Order_Management.Models;
 
 namespace Order_Management.Migrations
 {
     [DbContext(typeof(DeliveryTokenDB))]
-    partial class DeliveryTokenDBModelSnapshot : ModelSnapshot
+    [Migration("20201018095843_AddPrescription")]
+    partial class AddPrescription
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -27,35 +29,15 @@ namespace Order_Management.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("Address")
-                        .HasColumnType("nvarchar(50)")
-                        .HasMaxLength(50);
-
-                    b.Property<int>("Age")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Allergies")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Email")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("FirstName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("LastName")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<DateTime>("LastUpdatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Telephone")
-                        .HasColumnType("nvarchar(12)")
-                        .HasMaxLength(12);
-
-                    b.Property<string>("password")
+                    b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -188,6 +170,10 @@ namespace Order_Management.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(50)")
+                        .HasMaxLength(50);
+
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
@@ -206,6 +192,10 @@ namespace Order_Management.Migrations
 
                     b.Property<int>("Status")
                         .HasColumnType("int");
+
+                    b.Property<string>("TelNo")
+                        .HasColumnType("nvarchar(12)")
+                        .HasMaxLength(12);
 
                     b.Property<bool>("Urgent")
                         .HasColumnType("bit");

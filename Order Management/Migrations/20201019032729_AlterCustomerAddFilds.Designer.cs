@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Order_Management.Models;
 
 namespace Order_Management.Migrations
 {
     [DbContext(typeof(DeliveryTokenDB))]
-    partial class DeliveryTokenDBModelSnapshot : ModelSnapshot
+    [Migration("20201019032729_AlterCustomerAddFilds")]
+    partial class AlterCustomerAddFilds
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -54,9 +56,6 @@ namespace Order_Management.Migrations
                     b.Property<string>("Telephone")
                         .HasColumnType("nvarchar(12)")
                         .HasMaxLength(12);
-
-                    b.Property<string>("password")
-                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 

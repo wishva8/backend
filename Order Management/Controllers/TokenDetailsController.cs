@@ -6,116 +6,71 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Order_Management.Models;
+using Order_Management.Models.DTO;
+using Order_Management.Services.Contracts;
 
 namespace Order_Management.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class TokenDetailsController : ControllerBase
+    public class TokensController : ControllerBase
     {
         private readonly DeliveryTokenDB _context;
+        private readonly ITokenDetailService _tokenService;
 
-        public TokenDetailsController(DeliveryTokenDB context)
+        public TokensController(DeliveryTokenDB context, ITokenDetailService tokenService)
         {
             _context = context;
+            _tokenService = tokenService;
         }
 
-        // GET: api/TokenDetails
+        // GET: api/Tokens
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<TokenDetail>>> GetOrderDetails()
+        public async Task<List<TokenDetailDto>> GetOrderDetails()
         {
-            return await _context.TokenDetails.ToListAsync();
+
+            return await _tokenService.GetTokenDetails();
         }
 
-        // GET: api/TokenDetails/5
+        // GET: api/Tokens/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<TokenDetail>> GetOrderDetail(string id)
+        public async Task<TokenDetailDto> GetTokenDetail(int id)
         {
-            var orderDetail = await _context.TokenDetails.FindAsync(id);
-
-            if (orderDetail == null)
-            {
-                return NotFound();
-            }
-
-            return orderDetail;
+            return await _tokenService.GetToken(id);
         }
 
-        // PUT: api/TokenDetails/5
+        // PUT: api/Tokens/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for
         // more details see https://aka.ms/RazorPagesCRUD.
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutOrderDetail(int id, TokenDetail tokenDetail)
+        [HttpPut]
+        public async Task<bool> PutOrderDetail(TokenDetailDto dto)
         {
-
-            TokenDetail.id = id;
-
-            _context.Entry(tokenDetail).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!OrderDetailExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
+            return await _tokenService.UpdateToken(dto);
         }
 
-        // POST: api/TokenDetails
+        // POST: api/Tokens
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for
         // more details see https://aka.ms/RazorPagesCRUD.
         [HttpPost]
-        public async Task<ActionResult<TokenDetail>> PostOrderDetail(TokenDetail tokenDetail)
+        public async Task PostTokenDetail(TokenDetailDto dto)
         {
-            _context.TokenDetails.Add(tokenDetail);
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateException)
-            {
-                if (OrderDetailExists(tokenDetail.Token_Number))
-                {
-                    return Conflict();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return CreatedAtAction("GetOrderDetail", new { id = tokenDetail.Token_Number }, tokenDetail);
+            await _tokenService.AddToken(dto);
         }
 
-        // DELETE: api/TokenDetails/5
+        // DELETE: api/Tokens/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<TokenDetail>> DeleteOrderDetail(string id)
+        public async Task<bool> DeleteTokenDetail(int id)
         {
-            var orderDetail = await _context.TokenDetails.FindAsync(id);
-            if (orderDetail == null)
-            {
-                return NotFound();
-            }
-
-            _context.TokenDetails.Remove(orderDetail);
-            await _context.SaveChangesAsync();
-
-            return orderDetail;
+            return await _tokenService.DeleteToken(id);            
         }
 
-        private bool OrderDetailExists(int id)
+        // DELETE: api/Tokens/5
+        [HttpGet("GetStatistics")]
+        public async Task<StatisticsDto> GetStatistics()
         {
-            return _context.TokenDetails.Any(e => e.Token_Number == id);
+            return await _tokenService.GetStatistics();
         }
+
+
     }
 }

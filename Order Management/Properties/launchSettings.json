@@ -20,7 +20,7 @@
     "Order_Management": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/TokenDetails",
+      "launchUrl": "api/Tokens",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
